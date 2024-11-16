@@ -1,0 +1,40 @@
+change every instance of:
+twitterlink
+telegramlink
+githublink
+auditlink
+communitylink
+dexLink
+blurLink
+openseaLink
+appLink
+appName
+
+sections:
+  1:
+    1tag
+    1heading (3x)
+    1highlight (2x)
+    1paragraph
+  2:
+    2heading
+    2paragraph
+    2foot
+  3:
+    3heading
+    3paragraph
+    3faqhead1
+    3faqtext1
+    3faqhead2
+    3faqtext2
+    3faqhead3
+    3faqtext3
+    3faqhead4
+    3faqtext4
+    3faqhead5
+    3faqtext5
+    3subheading
+    3subparagraph
+  4:
+    4credittext
+    
